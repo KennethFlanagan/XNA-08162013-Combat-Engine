@@ -1,0 +1,408 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Models\kling_scout_iii.fbx</Source>
+      <Name>Models\kling_scout_iii</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\kling_scout_iii.xnb</Output>
+      <Time>2013-08-08T19:28:48.409484-07:00</Time>
+      <Dependency>
+        <Key>C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\obj\x86\Debug\Models\kling_scout_iii_0.xml</Key>
+        <Value>2013-08-13T12:07:17.5300257-07:00</Value>
+      </Dependency>
+      <Request>C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\WN_0.xnb</Request>
+      <Request>C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\INb_0.xnb</Request>
+      <Request>C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\ina_0.xnb</Request>
+      <Request>C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\ENGa_0.xnb</Request>
+      <Request>C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\CLOa_0.xnb</Request>
+      <Request>C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\SHRa_0.xnb</Request>
+      <Request>C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\GUN_0.xnb</Request>
+      <Request>C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\BDta_0.xnb</Request>
+      <Request>C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\BD1w_0.xnb</Request>
+      <Request>C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\SFer_0.xnb</Request>
+      <Request>C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\BRG_0.xnb</Request>
+      <Request>C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\Bum_0.xnb</Request>
+      <Request>C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\WNTA_0.xnb</Request>
+      <Request>C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\cre_0.xnb</Request>
+      <Request>C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\WNB_0.xnb</Request>
+      <Request>C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\bo_0.xnb</Request>
+      <Request>C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\hin_0.xnb</Request>
+      <Request>C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\wT2_0.xnb</Request>
+      <Request>C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\w1_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\kling_scout_iii.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\obj\x86\Debug\Models\kling_scout_iii_0.xml</Output>
+      <Time>2013-08-08T19:28:48.409484-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\WN.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\WN_0.xnb</Output>
+      <Time>2013-08-08T19:28:48.409484-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\INb.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\INb_0.xnb</Output>
+      <Time>2013-08-08T19:28:48.393884-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ina.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\ina_0.xnb</Output>
+      <Time>2013-08-08T19:28:48.3782839-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ENGa.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\ENGa_0.xnb</Output>
+      <Time>2013-08-08T19:28:48.440684-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\CLOa.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\CLOa_0.xnb</Output>
+      <Time>2013-08-08T19:28:48.440684-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\SHRa.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\SHRa_0.xnb</Output>
+      <Time>2013-08-08T19:28:48.409484-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\GUN.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\GUN_0.xnb</Output>
+      <Time>2013-08-08T19:28:48.440684-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\BDta.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\BDta_0.xnb</Output>
+      <Time>2013-08-08T19:28:48.425084-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\BD1w.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\BD1w_0.xnb</Output>
+      <Time>2013-08-08T19:28:48.425084-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\SFer.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\SFer_0.xnb</Output>
+      <Time>2013-08-08T19:28:48.409484-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\BRG.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\BRG_0.xnb</Output>
+      <Time>2013-08-08T19:28:48.425084-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Bum.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\Bum_0.xnb</Output>
+      <Time>2013-08-08T19:28:48.440684-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\WNTA.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\WNTA_0.xnb</Output>
+      <Time>2013-08-08T19:28:48.425084-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\cre.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\cre_0.xnb</Output>
+      <Time>2013-08-08T19:28:48.440684-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\WNB.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\WNB_0.xnb</Output>
+      <Time>2013-08-08T19:28:48.425084-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\bo.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\bo_0.xnb</Output>
+      <Time>2013-08-08T19:28:48.425084-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\hin.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\hin_0.xnb</Output>
+      <Time>2013-08-08T19:28:48.440684-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\wT2.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\wT2_0.xnb</Output>
+      <Time>2013-08-08T19:28:48.425084-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\w1.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\w1_0.xnb</Output>
+      <Time>2013-08-08T19:28:48.409484-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\button_50px.png</Source>
+      <Name>Textures\button_50px</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Textures\button_50px.xnb</Output>
+      <Time>2013-08-13T18:44:07.4319926-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Explosion.png</Source>
+      <Name>Textures\Explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Textures\Explosion.xnb</Output>
+      <Time>2013-08-13T18:44:07.4319926-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{D4B184FD-561E-47B9-B7BE-3DC83302E298}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat EngineContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-01-02T06:31:02.6197262-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

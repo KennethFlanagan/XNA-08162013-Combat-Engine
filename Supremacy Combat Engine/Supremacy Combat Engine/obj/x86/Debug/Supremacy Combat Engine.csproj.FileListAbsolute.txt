@@ -1,0 +1,28 @@
+C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\kling_scout_iii.xnb
+C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\WN_0.xnb
+C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\INb_0.xnb
+C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\ina_0.xnb
+C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\ENGa_0.xnb
+C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\CLOa_0.xnb
+C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\SHRa_0.xnb
+C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\GUN_0.xnb
+C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\BDta_0.xnb
+C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\BD1w_0.xnb
+C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\SFer_0.xnb
+C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\BRG_0.xnb
+C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\Bum_0.xnb
+C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\WNTA_0.xnb
+C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\cre_0.xnb
+C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\WNB_0.xnb
+C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\bo_0.xnb
+C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\hin_0.xnb
+C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\wT2_0.xnb
+C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Models\w1_0.xnb
+C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Supremacy Combat Engine.exe
+C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Supremacy Combat Engine.pdb
+C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\obj\x86\Debug\Supremacy Combat Engine.csprojResolveAssemblyReference.cache
+C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\obj\x86\Debug\Supremacy Combat Engine.exe
+C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\obj\x86\Debug\Supremacy Combat Engine.pdb
+C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Textures\button_50px.xnb
+C:\Users\Kenneth_of_Borg\Documents\XNA GAME\Supremacy Combat Engine\Supremacy Combat Engine\Supremacy Combat Engine\bin\x86\Debug\Content\Textures\Explosion.xnb
